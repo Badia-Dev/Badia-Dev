@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/HyjYkCZ.png"/>
+  <img src="https://imgur.com/a/JWO1k12"/>
 </div>
 
 ## Hi there! I'm <a href="https://www.linkedin.com/in/darian-badia/">Darian</a> (⌐■_■)
