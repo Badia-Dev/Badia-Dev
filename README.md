@@ -8,9 +8,9 @@
 - 🌈 He / They
 - 📌 Barcelona, Spain
 - 💬 Catalan, Spanish, English
-- 💼 Working as a Junior QA Technician
+- 💼 Working as a QA Technician
 - 🤓 Interested in videogames and improving my code
-- 🌱 Looking to collaborate on new and interesting projects
+- 👀 Currently working on a new game project
 - 🎮 Check my games <a href="https://daro-dev.itch.io/">here</a>
 
 
